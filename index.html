@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>MJ WILD BLOOM - Online Flower Store</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>💐 MJ WILD BLOOM</h1>
+    <p>Your online flower store for sales and nationwide delivery!</p>
+
+    <div class="controls">
+      <select id="filter-color">
+        <option value="all">All Colors</option>
+        <option value="Red">Red</option>
+        <option value="Purple">Purple</option>
+        <option value="White">White</option>
+        <option value="Yellow">Yellow</option>
+      </select>
+      <button id="toggle-theme">Toggle Dark Mode</button>
+    </div>
+  </header>
+
+  <!-- Ad banner -->
+  <section class="ad-banner">
+    <p>🌷 Free Delivery on Orders Over $50! 🌷</p>
+  </section>
+
+  <main>
+    <section id="flower-container" class="flowers-grid"></section>
+
+    <section id="cart-section">
+      <h2>Your Cart</h2>
+      <div id="cart-items">Cart is empty.</div>
+      <p id="cart-total">Total: $0.00</p>
+
+      <form id="order-form">
+        <h3>Place Your Order</h3>
+        <label>
+          Name: <input type="text" id="customer-name" required />
+        </label>
+        <label>
+          Location: <input type="text" id="customer-location" required />
+        </label>
+        <button type="submit" id="submit-order">Submit Order</button>
+      </form>
+
+      <div id="order-confirmation" class="hidden"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 MJ WILD BLOOM - We Deliver Happiness 💐</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

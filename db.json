@@ -1,0 +1,124 @@
+{
+  "flowers": [
+    {
+      "id": 1,
+      "name": "Red Roses",
+      "color": "Red",
+      "scent": "Sweet",
+      "price": 15.99,
+      "image": "https://i.ebayimg.com/images/g/ajEAAOSwcMZndXyl/s-l1600.webp"
+    },
+    {
+      "id": 2,
+      "name": "White Roses",
+      "color": "White",
+      "scent": "Light",
+      "price": 17.5,
+      "image": "https://i.ebayimg.com/images/g/qrMAAeSwJRNo1PPx/s-l1600.webp"
+    },
+    {
+      "id": 3,
+      "name": "Yellow Roses",
+      "color": "Yellow",
+      "scent": "Mild",
+      "price": 16.0,
+      "image": "https://i.ebayimg.com/images/g/buIAAOSwBERmrmhL/s-l1600.webp"
+    },
+    {
+      "id": 4,
+      "name": "Pink Rose",
+      "color": "Pink",
+      "scent": "Sweet",
+      "price": 18.0,
+      "image": "https://s3-eu-west-1.amazonaws.com/images.linnlive.com/de6e14ace5a0c53b3741299a067290d6/683ee155-219f-4d0b-af60-4d4274ccf7b0.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Orange Roses",
+      "color": "Orange",
+      "scent": "Strong",
+      "price": 19.0,
+      "image": "https://i.ebayimg.com/images/g/jtgAAOSwb-JhCUs6/s-l1600.webp"
+    },
+    {
+      "id": 6,
+      "name": "Lavender",
+      "color": "Purple",
+      "scent": "Calming",
+      "price": 12.5,
+      "image": "https://s3-eu-west-1.amazonaws.com/images.linnlive.com/de6e14ace5a0c53b3741299a067290d6/d3893272-da1e-4839-be9f-35b44b6fc042.jpg"
+    },
+    {
+      "id": 7,
+      "name": "White Lily",
+      "color": "White",
+      "scent": "Strong",
+      "price": 18.0,
+      "image": "https://i.ebayimg.com/images/g/WPsAAOSw1Nhh9ARQ/s-l1600.webp"
+    },
+    {
+      "id": 8,
+      "name": "Jasmine",
+      "color": "White",
+      "scent": "Exotic",
+      "price": 14.75,
+      "image": "https://i.ebayimg.com/images/g/yAgAAOSwZbBiQ0k~/s-l1600.webp"
+    },
+    {
+      "id": 9,
+      "name": "Sunflower",
+      "color": "Yellow",
+      "scent": "Mild",
+      "price": 10.0,
+      "image": "https://i.ebayimg.com/images/g/suQAAOSwEnVlVD-l/s-l1600.webp"
+    },
+    {
+      "id": 10,
+      "name": "Orchid",
+      "color": "Purple",
+      "scent": "Delicate",
+      "price": 22.0,
+      "image": "https://i.ebayimg.com/images/g/1QEAAOSwg3FUnNu6/s-l1600.webp"
+    },
+    {
+      "id": 11,
+      "name": "Peony",
+      "color": "Pink",
+      "scent": "Sweet",
+      "price": 20.0,
+      "image": "https://i.ebayimg.com/images/g/ZJYAAOSwcQZnpYmG/s-l1600.webp"
+    },
+    {
+      "id": 12,
+      "name": "Gardenia",
+      "color": "White",
+      "scent": "Strong",
+      "price": 19.5,
+      "image": "https://i.ebayimg.com/images/g/8rEAAOSw1vlUwDAA/s-l1600.webp"
+    },
+    {
+      "id": 13,
+      "name": "Carnation",
+      "color": "Pink",
+      "scent": "Mild",
+      "price": 9.99,
+      "image": "https://i.ebayimg.com/images/g/-zoAAOSwhIBoOmT0/s-l1600.webp"
+    },
+    {
+      "id": 14,
+      "name": "Daisy",
+      "color": "White",
+      "scent": "Light",
+      "price": 8.5,
+      "image": "https://i.ebayimg.com/images/g/PxEAAOSw7kZnxubz/s-l1600.webp"
+    },
+    {
+      "id": 15,
+      "name": "Chrysanthemum",
+      "color": "Yellow",
+      "scent": "Mild",
+      "price": 14.0,
+      "image": "https://i.ebayimg.com/images/g/4sEAAOSwmjVoAjJW/s-l1600.webp"
+    }
+  ]
+}
